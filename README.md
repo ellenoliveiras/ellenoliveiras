@@ -1,6 +1,6 @@
 ## Hi, I'm Ellen!
 
-# Áreas de Atuação
+### Áreas de Atuação
 - Análise e visualização de dados geoespaciais
 - Desenvolvimento de scripts em Python e JavaScript
 - Integração de APIs geoespaciais (Google Earth Engine, MapBiomas)
