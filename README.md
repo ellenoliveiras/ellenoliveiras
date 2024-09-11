@@ -1,6 +1,6 @@
-## Hi, I'm Ellen!
+### Hi, I'm Ellen!
 
-### Areas of Expertise
+#### Areas of Expertise
 - Geospatial data analysis and visualization;
 - Development of scripts in Python and JavaScript;
 - Integration of geospatial APIs (Google Earth Engine, MapBiomas);
