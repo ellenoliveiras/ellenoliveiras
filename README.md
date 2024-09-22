@@ -1,19 +1,16 @@
-### Hi, I'm Ellen!
+### Hey! Eu sou a Ellen.
 
-#### About me
-I'm a GIS and Geoprocessing Analyst with experience in geospatial data analysis, database management, and automation using Python. Currently pursuing a degree in Database Technology, with a background in Geology and experience in both research and professional environments.
+Analista de Geoprocessamento e SIG, especialista em análise de dados espaciais, gestão de banco de dados e automação com Python.
 
-#### Areas of expertise
-- Geospatial data analysis and visualization;
-- Development of scripts in Python and JavaScript;
-- Integration of geospatial APIs (Google Earth Engine, MapBiomas);
-- Spatial and statistical modeling;
-- Satellite imagery and map processing.
+#### Áreas de atuação:
+- Análise e visualização de dados geoespaciais;
+- Desenvolvimento de scripts em Python e JavaScript;
+- Integração de APIs geoespaciais (Google Earth Engine, MapBiomas);
+- Processamento de imagens de satélite e mapas.
 
-#### Tools
-- GIS Software: ArcMap, ArcGIS Pro, QGIS;
+#### Tecnologias que eu domino:
+- Softwares GIS: ArcMap, ArcGIS Pro, QGIS;
 - Google Earth Engine (GEE);
-- Python and JS for GIS automation.
+- Python e JavaScript para automação em SIG.
 
-#### Let's connect
 [LinkedIn](https://www.linkedin.com/in/ellenoliveiras/)
