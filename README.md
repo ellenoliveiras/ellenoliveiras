@@ -23,7 +23,6 @@ Sou apaixonada por mapas, dados e tecnologia. Atuo como **Analista de Banco de D
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/></code>
 <code><img height="32" src="assets/qgis.png" alt="QGIS"/></code>
-<code><img height="32" src="assets/argispro.png" alt="ArcGIS Pro"/></code>
 <code><img height="32" src="assets/gee.png" alt="Google Earth Engine"/></code>
 
 ---
