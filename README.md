@@ -22,11 +22,9 @@ Sou apaixonada por mapas, dados e tecnologia. Atuo como **Analista de Banco de D
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Qgis-icon-2020.svg" alt="QGIS"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/ArcGIS_logo_2022.svg" alt="ArcGIS"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Earth_icon.svg/1024px-Google_Earth_icon.svg.png" alt="Google Earth Engine"/></code>
+<code><img height="32" src="assets/qgis.png" alt="QGIS"/></code>
+<code><img height="32" src="assets/argispro.png" alt="ArcGIS Pro"/></code>
+<code><img height="32" src="assets/gee.png" alt="Google Earth Engine"/></code>
 
 ---
 
