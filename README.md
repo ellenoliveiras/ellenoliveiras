@@ -1,16 +1,34 @@
-### Opa!
+<h2 align="center">🌍 Ellen Oliveira</h2>
+<p align="center">🔎 Analista de Banco de Dados & Geoprocessamento | GIS & Spatial Data</p>
 
-Sou Analista de Geoprocessamento e SIG, especialista em análise de dados espaciais, gestão de banco de dados e automação com Python.
+---
 
-#### Áreas de atuação:
-- Análise e visualização de dados geoespaciais;
-- Desenvolvimento de scripts em Python e JavaScript;
-- Integração de APIs geoespaciais (Google Earth Engine, MapBiomas);
-- Processamento de imagens de satélite e mapas.
+🗺️ **Sobre mim**  
+Sou apaixonada por mapas, dados e tecnologia. Atuo como **Analista de Banco de Dados e Geoprocessamento**, com experiência em análise de dados espaciais, automações com Python e gestão de bases geográficas e relacionais.
 
-#### Tecnologias que eu domino:
-- Softwares GIS: ArcMap, ArcGIS Pro, QGIS;
-- Google Earth Engine (GEE);
-- Python e JavaScript para automação em SIG.
+---
 
-[LinkedIn](https://www.linkedin.com/in/ellenoliveiras/)
+📌 **Áreas de atuação**  
+- 📊 Análise e visualização de dados geoespaciais e tabulares  
+- 🧩 Modelagem e gestão de banco de dados relacionais e espaciais  
+- ⚙️ Automação de fluxos com Python (ETL, análise, validação de dados)  
+- 🔗 Integração com APIs geoespaciais (Google Earth Engine, MapBiomas)  
+- 🛰️ Processamento de imagens de satélite e geração de mapas
+
+---
+
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Qgis-icon-2020.svg" alt="QGIS"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/ArcGIS_logo_2022.svg" alt="ArcGIS"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Earth_icon.svg/1024px-Google_Earth_icon.svg.png" alt="Google Earth Engine"/></code>
+
+---
+
+🔗 **Me encontre por aí**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellenoliveiras/)
