@@ -1,5 +1,5 @@
-<h2 align="center">🌍 Ellen Oliveira</h2>
-<p align="center">🔎 Analista de Banco de Dados & Geoprocessamento | GIS & Spatial Data</p>
+<h2 align="center">Ellen Oliveira</h2>
+<p align="center">Database & GIS Analyst</p>
 
 ---
 
@@ -22,10 +22,11 @@ Sou apaixonada por mapas, dados e tecnologia. Atuo como **Analista de Banco de D
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/></code>
+<code><img height="32" src="assets/arcgispro.png"/></code>
 <code><img height="32" src="assets/qgis.png" alt="QGIS"/></code>
 <code><img height="32" src="assets/gee.png" alt="Google Earth Engine"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator"/></code>
 
 ---
 
-🔗 **Me encontre por aí**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellenoliveiras/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellenoliveiras/)
