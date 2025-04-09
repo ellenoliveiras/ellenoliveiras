@@ -1,6 +1,6 @@
-### Hey! Eu sou a Ellen.
+### Opa!
 
-Analista de Geoprocessamento e SIG, especialista em análise de dados espaciais, gestão de banco de dados e automação com Python.
+Sou Analista de Geoprocessamento e SIG, especialista em análise de dados espaciais, gestão de banco de dados e automação com Python.
 
 #### Áreas de atuação:
 - Análise e visualização de dados geoespaciais;
